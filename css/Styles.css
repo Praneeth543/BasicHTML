@@ -1,0 +1,42 @@
+/**************************************Tag Selection**************************************/
+/*h1 {
+  color: red;
+}*/
+
+h3 {
+  color: red;
+}
+
+img:hover {
+  background-color: pink;
+  padding: 5px;
+  box-shadow: 2px 2px 2px purple;
+}
+
+td:hover {
+  background-color: gold;
+  border-color: red;
+}
+
+hr {
+  background-color: #67eaca;
+  border-color: grey;
+  border-style: dotted;
+  border-top-style: none;
+  border-width: 5px;
+  width: 10%;
+}
+/**************************************Class Selection**************************************/
+
+.circular {
+  border-radius: 30%;
+}
+/*.new:hover {
+  background-color: pink;
+  padding: 5px;
+  box-shadow: 2px 2px 2px purple;
+}*/
+
+#heading {
+  color:blue;
+}
